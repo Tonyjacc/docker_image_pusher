@@ -6,3 +6,11 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 mysql:8.4.4
+redis:latest
+nginx:latest
+rabbitmq:4.0.5-management
+elasticsearch:8.17.2
+kibana:8.17.2
+logstash:8.17.2
+nacos-server:latest
+openjdk:21-jdk
